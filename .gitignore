@@ -208,3 +208,5 @@ __marimo__/
 
 # Data
 data/
+processed_hooks/
+hook_motion_features.csv
