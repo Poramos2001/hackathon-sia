@@ -45,3 +45,9 @@
 - The Arousal Axis (Vertical: Calm/Bored vs. Excited/Frantic)
   - Audio: RMS Energy (volume) and Tempo (BPM). Fast, loud music or the "crunch" of aggressive skiing spikes the arousal score.
   - Text???
+
+
+  # Features Selecionadas
+  - Channel Score (Average views per channel)
+  -  Bluebird Score
+  - Max_tag_imp_norm  
