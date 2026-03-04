@@ -4,8 +4,8 @@
 
 |       | Seg | Ter | Qua |
 |-------|-----|-----|-----|
-| Manha | Brainstorming features a criar | Feature engineering / Training | Training/ Explainability |
-| Tarde | Feature engineering | Training  | Final touches |
+| Manha | Brainstorming features a criar | Feature engineering | Training/ Explainability |
+| Tarde | Feature engineering | Feature engineering / Training  | Final touches |
 
 ## Features para analizar (criar colunas no csv):
 
@@ -13,6 +13,7 @@
   - Cuteness (ex: cachorro, gato e bebês)
   - “Loopability”: ending cuts back cleanly to start, seamless loop, circular narrative.
   - Snow Quality (The "Bluebird" Factor): Color histograms can detect "Bluebird days" (high saturation blue sky vs. bright white snow) which perform 40% better than "Greybird" (foggy) days.
+  - Audio-Visual Sync (BPM): A "sync score" measuring how well the visual cuts align with the peaks in the audio waveform.
 - Isabel
   - Hashtags (regex)
   - Something with the description? Bag of words to see if there are some keywords that appear the most? (SEO)
@@ -23,7 +24,6 @@
   - Hook clarity in first 1–2 seconds: immediate action/visual payoff vs slow intro.
   - Valence x Arousal for text and audio 
   - Pace: frequent scene changes, camera motion, no dead time, but still understandable.
-  - Sinconização Música (Audio-Visual Sync (BPM): A "sync score" measuring how well the visual cuts align with the peaks in the audio waveform.)
   - ASMR "Crunch": High-frequency audio signatures of skis carving on fresh "corduroy" (groomed snow) or the "woof" of deep powder.
 
 
